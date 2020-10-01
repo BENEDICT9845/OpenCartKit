@@ -4,8 +4,6 @@ This is Objecitve-C version, you can use to develop iOS client app for OpenCart 
  
  
 If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
-
-
   
 
 
